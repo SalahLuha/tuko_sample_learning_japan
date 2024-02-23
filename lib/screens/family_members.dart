@@ -75,12 +75,21 @@ class FamilyMembers extends StatelessWidget {
     return Scaffold(
       backgroundColor: const Color(0xffFEF6DB),
       appBar: AppBar(
-        backgroundColor: const Color(0xFF558B37),
+        backgroundColor: const Color(0xFF46322b),
         title: const Text('FamilyMembers',style: TextStyle(
           color: Colors.white,
           fontSize: 18,
           fontWeight: FontWeight.bold,
         ),),
+        leading: IconButton(
+          icon: const Icon(
+            Icons.arrow_back_ios_new_outlined,
+            color: Colors.white,
+          ),
+          onPressed: () {
+            Navigator.pop(context);
+          },
+        ),
 
       ),
       body: ListView.builder(

@@ -12,10 +12,10 @@ class CategoryItem extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    return Column(
-      children: [
-        Card(
-          shape: RoundedRectangleBorder(borderRadius: BorderRadius.circular(35)),
+    return Form(
+        child: Container(
+          decoration: BoxDecoration(borderRadius: BorderRadius.circular(35),
+              color: color),
           margin:  EdgeInsets.symmetric(horizontal: 15, vertical: 10),
           child: ListTile(
 
@@ -27,7 +27,7 @@ class CategoryItem extends StatelessWidget {
                 fontWeight: FontWeight.bold,
               ),
             ),
-            trailing: CircleAvatar(
+            /*trailing: CircleAvatar(
               radius: 22,
               backgroundColor: Colors.orangeAccent,
               child: Icon(
@@ -35,12 +35,11 @@ class CategoryItem extends StatelessWidget {
                 size: 20,
                 color: Colors.white,
               ),
-            ),
-            tileColor: color,
+            ),*/
             onTap: onTap,
-          ),
-        ),
-      ],
+
+          ),),
+
     );
   }
 }

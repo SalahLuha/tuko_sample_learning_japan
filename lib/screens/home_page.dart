@@ -7,13 +7,18 @@ import 'colors_page.dart';
 import 'numbers_page.dart';
 import 'phrases_page.dart';
 
-class HomePage extends StatelessWidget {
+class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
 
   @override
+  State<HomePage> createState() => _HomePageState();
+}
+
+class _HomePageState extends State<HomePage> {
+  @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: Color(0xffFEF6DB),
+      backgroundColor: const Color(0xffFEF6DB),
       appBar: AppBar(
         backgroundColor: const Color(0xFF46322b),
         title: const Text(
@@ -24,9 +29,12 @@ class HomePage extends StatelessWidget {
             fontWeight: FontWeight.bold,
           ),
         ),
+        centerTitle: true,
+        leading: const SizedBox(),
+
       ),
       body: Container(
-        decoration: BoxDecoration(
+        decoration: const BoxDecoration(
           image: DecorationImage(
             image: AssetImage("assets/images/skyjapan.jpg"),
             fit: BoxFit.cover,
@@ -39,11 +47,11 @@ class HomePage extends StatelessWidget {
             Container(
               width: 350,
               height: 80,
-              decoration:  BoxDecoration(
+              decoration:  const BoxDecoration(
                   borderRadius: BorderRadius.only(
                       bottomRight: Radius.circular(13),
                       topLeft: Radius.circular(13))),
-              child:  Center(
+              child:  const Center(
                 child: Row(
                   mainAxisAlignment: MainAxisAlignment.center,
                   children: [
@@ -66,7 +74,7 @@ class HomePage extends StatelessWidget {
 
               text: 'Number',
               color: const Color(0xFFEF9235),
-              icon: Icons.numbers,
+
               onTap: () {
                 Navigator.push(context, MaterialPageRoute(builder: (context) {
                   return  NumbersPage();
@@ -74,9 +82,10 @@ class HomePage extends StatelessWidget {
               },
             ),
             CategoryItem(
+
               text: 'FamilyMembers',
               color: const Color(0xFF558B37),
-              icon: Icons.person,
+
               onTap: () {
                 Navigator.push(context, MaterialPageRoute(builder: (context) {
                   return  FamilyMembers();
@@ -86,7 +95,7 @@ class HomePage extends StatelessWidget {
             CategoryItem(
               text: 'Colors',
               color: const Color(0xFF79359F),
-              icon: Icons.color_lens,
+
               onTap: () {
                 Navigator.push(context, MaterialPageRoute(builder: (context) {
                   return ColorsPage();
@@ -97,7 +106,7 @@ class HomePage extends StatelessWidget {
 
               text: 'Phrases',
               color: const Color(0xff50adc7),
-              icon: Icons.insert_photo_rounded,
+
               onTap: () {
                 Navigator.push(context, MaterialPageRoute(builder: (context) {
                   return  PharasesPage();

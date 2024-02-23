@@ -51,19 +51,28 @@ class ColorsPage extends StatelessWidget {
       backgroundColor: const Color(0xffFEF6DB),
       appBar: AppBar(
           backgroundColor: const Color(0xFF46322b),
-          title: Text(
+          title: const Text(
             'Colors',
             style: TextStyle(
               color: Colors.white,
               fontSize: 18,
               fontWeight: FontWeight.bold,
             ),
+          ),
+          leading: IconButton(
+            icon: const Icon(
+              Icons.arrow_back_ios_new_outlined,
+              color: Colors.white,
+            ),
+            onPressed: () {
+              Navigator.pop(context);
+            },
           )),
       body: ListView.builder(
           itemCount: numbers.length,
           itemBuilder: (context, index) {
             return ListItem(
-              color: Color(0xFF79359F),
+              color: const Color(0xFF79359F),
               item: numbers[index],
             );
           }),

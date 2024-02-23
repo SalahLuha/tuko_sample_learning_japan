@@ -89,6 +89,15 @@ class NumbersPage extends StatelessWidget {
           fontSize: 18,
           fontWeight: FontWeight.bold,
         ),),
+          leading: IconButton(
+            icon: const Icon(
+              Icons.arrow_back_ios_new_outlined,
+              color: Colors.white,
+            ),
+            onPressed: () {
+              Navigator.pop(context);
+            },
+          )
       ),
       body: ListView.builder(
           itemCount: numbers.length,
