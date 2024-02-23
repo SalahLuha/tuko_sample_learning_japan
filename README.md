@@ -1,6 +1,9 @@
 # tuko_sample_learning_japan
 
 A new Flutter project.
+An application for mobile and the web. 
+It is a simplified application for teaching children the Japanese language, 
+such as family members, numbers, and colors, and translating them into English.
 
 ## Getting Started
 
