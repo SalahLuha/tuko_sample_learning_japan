@@ -50,7 +50,7 @@ class ColorsPage extends StatelessWidget {
     return Scaffold(
       backgroundColor: const Color(0xffFEF6DB),
       appBar: AppBar(
-          backgroundColor: const Color(0xFF46322b),
+          backgroundColor: const Color(0xff867567),
           title: const Text(
             'Colors',
             style: TextStyle(

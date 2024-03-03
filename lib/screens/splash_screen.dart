@@ -41,7 +41,7 @@ class _SplashScreenState extends State<SplashScreen> {
             const Text(
               'Learn Japanese',
               style: TextStyle(
-                color: Color(0xFF46322b),
+                color: Color(0xff867567),
                 fontSize: 30,
                 fontWeight: FontWeight.bold,
               ),

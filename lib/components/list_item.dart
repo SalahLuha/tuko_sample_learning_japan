@@ -21,7 +21,7 @@ class ListItem extends StatelessWidget {
         child: ListTile(
           leading: Container(
             decoration: BoxDecoration(
-                color: Colors.white54, borderRadius: BorderRadius.circular(35)),
+                color: const Color(0x25ffffff), borderRadius: BorderRadius.circular(35)),
             width: 50.0,
             height: 50.0,
             child: Image.asset(
@@ -45,7 +45,7 @@ class ListItem extends StatelessWidget {
           ),
           trailing: CircleAvatar(
               radius: 22,
-              backgroundColor: Color(0x7bffffff),
+              backgroundColor: const Color(0x25ffffff),
               child: IconButton(
                 onPressed: () {
                   final player = AudioPlayer();
