@@ -1,8 +1,8 @@
-# 🈯tuko_sample_learning_japan
+# 🈯
 
 <div align="start">
-     <a href="https://api.visitorbadge.io/api/visitors?path=Up-To-Do-App&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank">
-        <img src="https://api.visitorbadge.io/api/visitors?path=Up-To-Do-App&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank" />
+     <a href="https://api.visitorbadge.io/api/visitors?path=tuko_sample_learning_japan&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank">
+        <img src="https://api.visitorbadge.io/api/visitors?path=tuko_sample_learning_japan&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank" />
     </a>
     <a href="https://www.linkedin.com/in/ammar-ageeza-9031891b8/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
@@ -44,24 +44,24 @@
 <p align= "center">
     <a href="https://www.youtube.com/watch?v=eRK9pI98EUk&list=PLYfTCw9blWRNh4jiQO3kVNd34jUD6MD9m&index=1&t=4s&pp=gAQBiAQB">
      <kbd>
-        <img  src="https://github.com/AmmarAgeeza/Up-To-Do-App/assets/72443818/0f267f9e-d2a3-41c6-8a4b-17a0b12abd6d" alt="Get this app on YouTube Playlist Tutorials">
+        <img  src="https://github.com/AmmarAgeeza/tuko_sample_learning_japan/assets/72443818/0f267f9e-d2a3-41c6-8a4b-17a0b12abd6d" alt="Get this app on YouTube Playlist Tutorials">
      </kbd>
   </a>
 
 
 ## 📁 File Structure
 
-![image](https://github.com/AmmarAgeeza/Up-To-Do-App/assets/72443818/6bf5b32f-abb6-4a88-b96c-e67133dc7618)
+![image](https://github.com/AmmarAgeeza/tuko_sample_learning_japan/assets/72443818/6bf5b32f-abb6-4a88-b96c-e67133dc7618)
 
 ## 📱 UI
 
-![2](https://github.com/AmmarAgeeza/Up-To-Do-App/assets/72443818/bd589d06-bb71-4010-9899-709ead2d9545)
+![2](https://github.com/AmmarAgeeza/tuko_sample_learning_japan/assets/72443818/bd589d06-bb71-4010-9899-709ead2d9545)
 
-![3](https://github.com/AmmarAgeeza/Up-To-Do-App/assets/72443818/a0583e2a-5a9e-4852-ac85-1bd9ec0d312b)
+![3](https://github.com/AmmarAgeeza/tuko_sample_learning_japan/assets/72443818/a0583e2a-5a9e-4852-ac85-1bd9ec0d312b)
 
 ## 🎥 Video
 
-https://github.com/AmmarAgeeza/Up-To-Do-App/assets/72443818/47054951-596b-4fe5-9eff-03abf357f8fe
+https://github.com/AmmarAgeeza/tuko_sample_learning_japan/assets/72443818/47054951-596b-4fe5-9eff-03abf357f8fe
 
 ## 🛠 Dependencies
 
