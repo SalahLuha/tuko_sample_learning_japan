@@ -35,14 +35,11 @@
 
 <hr>
 <h3>
-  <a href="https://www.youtube.com/watch?v=eRK9pI98EUk&list=PLYfTCw9blWRNh4jiQO3kVNd34jUD6MD9m&index=1&t=4s&pp=gAQBiAQB">
-    👨🏻‍🎓 Get this app on YouTube Playlist Tutorials
-  </a>
+ 
 </h3>
 <p align= "center">
-    <a href="https://www.youtube.com/watch?v=eRK9pI98EUk&list=PLYfTCw9blWRNh4jiQO3kVNd34jUD6MD9m&index=1&t=4s&pp=gAQBiAQB">
      <kbd>
-        <img  src="https://github.com/AmmarAgeeza/tuko_sample_learning_japan/assets/72443818/0f267f9e-d2a3-41c6-8a4b-17a0b12abd6d" alt="Get this app on YouTube Playlist Tutorials">
+        <img  src="https://github.com/SalahLuha/tuko_sample_learning_japan/assets/76949573/288c9979-8148-485f-a748-402fd5211305" alt="Get this app on YouTube Playlist Tutorials">
      </kbd>
   </a>
 
