@@ -46,35 +46,25 @@
 
 ## 📁 File Structure
 
-![image](https://github.com/AmmarAgeeza/tuko_sample_learning_japan/assets/72443818/6bf5b32f-abb6-4a88-b96c-e67133dc7618)
+![Capture](https://github.com/SalahLuha/tuko_sample_learning_japan/assets/76949573/25e7eabc-475d-48aa-bcb8-36fa372e25d0)
 
-## 📱 UI
-
-![2](https://github.com/AmmarAgeeza/tuko_sample_learning_japan/assets/72443818/bd589d06-bb71-4010-9899-709ead2d9545)
-
-![3](https://github.com/AmmarAgeeza/tuko_sample_learning_japan/assets/72443818/a0583e2a-5a9e-4852-ac85-1bd9ec0d312b)
 
 ## 🎥 Video
 
-https://github.com/AmmarAgeeza/tuko_sample_learning_japan/assets/72443818/47054951-596b-4fe5-9eff-03abf357f8fe
+
+https://github.com/SalahLuha/tuko_sample_learning_japan/assets/76949573/3995a318-42dc-4dd7-8c7f-eabf62fc16df
+
+
 
 ## 🛠 Dependencies
 
 ```pubspec.yaml
-  date_picker_timeline: 
-  flutter_bloc: 
-  flutter_screenutil: 
-  fluttertoast: 
-  get_it: 
-  google_fonts: 
-  intl: 
-  shared_preferences: 
-  smooth_page_indicator: 
-  sqflite: 
-  flutter_local_notifications: 
-  timezone: 
-  flutter_timezone: 
-  workmanager: 
+
+  ListTile class
+  cupertino_icons: ^1.0.2
+  audioplayers: ^5.2.1
+  google_fonts: ^3.0.1
+
 ```
 
 ## ☢️ Usage
