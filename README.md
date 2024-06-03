@@ -1,39 +1,37 @@
-# 🈯
+# 🈯 tuko_sample_learning_japan
+
 
 <div align="start">
      <a href="https://api.visitorbadge.io/api/visitors?path=tuko_sample_learning_japan&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank">
         <img src="https://api.visitorbadge.io/api/visitors?path=tuko_sample_learning_japan&label=People%20who%20visited%20this%20page&countColor=%23263759" target="_blank" />
     </a>
-    <a href="https://www.linkedin.com/in/ammar-ageeza-9031891b8/" target="_blank">
+    <a href="https://www.linkedin.com/in/salah-medhat-2bb9b3171/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
     </a>
-  <a href="mailto:ammarfathy516@gmail.com">
+  <a href="salah223310@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+
   </a>
-    <a href="https://youtube.com/@ammarageeza91?si=bHNizIHn9dIL3jX7">
-    <img src="https://img.shields.io/badge/Youtube-red?style=for-the-badge&logo=youtube&logoColor=white" />
-  </a>
-     <a href="https://mostaql.com/u/ammarageeza/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-0077B5?style=for-the-badge&logoColor=white" />
-  </a>
-     </a>
-     <a href="https://t.me/ammarageeza">
-    <img src="https://img.shields.io/badge/Telegram-0077B5?style=for-the-badge&logo=telegram&logoColor=white" />
+
   </a>
 </div>
 
 ## 🚀 Getting Started
 
-- Up-To-Do App is designed to help users organize their tasks efficiently and stay productive throughout their day. Whether it's managing daily tasks, work assignments, or personal goals.
-- App notifies the user of the task before starting using `flutter_local_notifications`.
-- Our App reminds users every day at 9 PM ⏰to write tasks for tomorrow.
+- The Tuko learning japan application is designed to help children learn the Japanese language efficiently.
+- A simple way to learn by example using pictures and sounds.
+- You can choose between numbers🔢, family members 👨‍👩‍👧‍👧, colors 🔴 and some simple conversations.
 
 ## 🤳 Screens
 
-- **Splash Screen:** Wait for 3 seconds then navigate to `On-Boarding Screens`. 
-- **On-Boarding Screens:** Provide a seamless and engaging introduction to our app.
-- **Home Screen:** The User can discover all tasks that he added before and can change the status to `COMPLETED` or `DELETED`.
-- **Add Task:** User can add task details like `title`, `note`, `date`, `start time`, and `end time`.
+- **Splash Screen:** Wait for 3 seconds then navigate to `Home Screen`. 
+- **Home Screen:** You can choose between `numbers`, `family members` ,`colors` or `Phrases`.
+- **Numbers page:** user can see pictures of the number and press the play button to hear the numbers.
+- **family members:** user can see pictures of family members and press the play button to listen.
+- **colors:** user can see images to color and press the play button to listen.
+- **Phrases:** The user can see some conversation sentences and press the play button to listen.
+
+
 
 <hr>
 <h3>
